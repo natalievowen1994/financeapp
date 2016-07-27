@@ -1,0 +1,14 @@
+{
+  "name": "financeapp",
+  "version": "1.0.0",
+  "description": "An application to track finances",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/natalievowen1994/financeapp.git"
+  },
+  "author": "Natalie Owen",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
